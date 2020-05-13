@@ -1,0 +1,8 @@
+﻿  Wschody_zachody.cpp
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(176): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(182): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\kasia\source\repos\wschody_zachody\wschody_zachody\wschody_zachody.cpp(184): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Wschody_zachody.vcxproj -> C:\Users\Kasia\source\repos\Wschody_zachody\Debug\Wschody_zachody.exe
